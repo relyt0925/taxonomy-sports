@@ -1,0 +1,69 @@
+version: 3
+created_by: lapalm
+domain: sports
+seed_examples:
+  - context: "Super Bowl LVIII was an American football game played to determine the champion of the National Football League (NFL) for the 2023 season. In a rematch of Super Bowl LIV from four years earlier, the American Football Conference (AFC) champion and defending Super Bowl champion Kansas City Chiefs defeated the National Football Conference (NFC) champion San Francisco 49ers 25–22 in overtime. The Chiefs became the first team to win back-to-back Super Bowls since the 2004 New England Patriots."
+    questions_and_answers:
+      - question: Who played in Superbowl LVIII?
+        answer: The Kansas City Chiefs and the San Francisco 49ers.
+      - question: Who won Superbowl LVIII?
+        answer: The Kansas City Chiefs.
+      - question: What was the final score of Superbowl LVIII?
+        answer: The final score of Superbowl LVIII was 25 - 22, Chiefs.
+      - question: What was Superbowl LVIII?
+        answer: Super Bowl LVIII was an American football game played to determine the champion of the National Football League (NFL) for the 2023 season.
+      - question: Which team was the AFC champion in Superbowl LVIII?
+        answer: The AFC champion was the Kansas City Chiefs.
+      - question: Which team was the NFC champion in Superbowl LVIII?
+        answer: The NFC champion was the San Francisco 49ers.
+  - context: "The game was played on February 11, 2024, at Allegiant Stadium in Paradise, Nevada. This was the first Super Bowl to be held in the state of Nevada.[7][8] It marked the third straight year that the Super Bowl had been played in the Western United States, following host cities Inglewood, California, in 2022 and Glendale, Arizona, in 2023."
+    questions_and_answers:
+      - question: When was Superbowl LVIII played?
+        answer: Superbowl LVIII was played on February 11, 2024.
+      - question: Where was Superbowl LVIII played?
+        answer: The game was played on February 11, 2024, at Allegiant Stadium in Paradise, Nevada.
+      - question: In what state was Superbowl LVIII played?
+        answer: Nevada
+      - question: How many superbowls have previously been held in Nevada?
+        answer: 0.  Superbowl LVIII was the first superbowl held in the state of Nevada.
+      - question: In what month was Superbowl LVIII played?
+        answer: February
+  - context: "The game was televised nationally by CBS, streamed on Paramount+, alternatively broadcast on youth-oriented sister network Nickelodeon, and televised on the Spanish-language network Univision.[15] It was also the second simulcast in Super Bowl history, and the first since Super Bowl I.[16] Super Bowl LVIII became the most watched program in American television history, with a total of 123.7 million average viewers across all platforms, which broke the average record of 115.1 million viewers set by the previous year's Super Bowl.[17][4] The game saw the highest unduplicated total audience in history with more than 200 million viewers watching all or part of the game.[18] It was the most-watched United States broadcast since the Apollo 11 moon landing,[19] attributed to the Taylor Swift effect. The halftime show, headlined by Usher, peaked at 129.3 million viewers.[20][21][22] The game's net playing time of 74 minutes and 57 seconds ranks as the longest in Super Bowl history.[23]"
+    questions_and_answers:
+      - question: On what channels was Superbowl LVIII televised?
+        answer: The game was televised nationally by CBS, streamed on Paramount+, alternatively broadcast on youth-oriented sister network Nickelodeon, and televised on the Spanish-language network Univision.
+      - question: How many viewers tuned in to watch Superbowl LVIII?
+        answer: Super Bowl LVIII became the most watched program in American television history, with a total of 123.7 million average viewers across all platforms.
+      - question: Who performed at the Superbowl LVIII halftime show?
+        answer: Usher
+      - question: How many viewers tuned in to watch the Superbowl LVIII halftime show?
+        answer: The halftime show peaked at 129.3 million viewers.
+      - question: What was the total playing time of Superbowl LVIII?
+        answer: The game's net playing time of 74 minutes and 57 seconds ranks as the longest in Super Bowl history
+  - context: "Under seventh-year head coach Kyle Shanahan, the San Francisco 49ers ended the 2023 season with a 12–5 record, the NFC's No. 1 seed, and a first-round bye. Kansas City entered the 2023 NFL season as defending Super Bowl champions, having won Super Bowl LVII. They finished the 2023 season with an 11–6 record, their 11th consecutive winning season and eighth consecutive AFC West title under eleventh-year head coach Andy Reid, and as the No. 3 seed in the AFC."
+    questions_and_answers:
+      - question: Who was the head coach of the San Francisco 49ers during Superbowl LVIII?
+        answer: Kyle Shanahan
+      - question: Who was the head coach of the Kansas City Chiefs during Superbowl LVIII?
+        answer: Andy Reid
+      - question: What playoff seed was the San Francisco 49ers?
+        answer: The San Francisco 49ers were the NFC's No. 1 seed.
+      - question: What playoff seed was the Kansas City Chiefs?
+        answer: The Kansas City Chiefs were the No. 3 seed in the AFC.
+      - question: What was the regular season record of the San Francisco 49ers?
+        answer: The San Francisco 49ers ended the 2023 season with a 12–5 record.
+  - context: "Following the success of rookie quarterback Brock Purdy, who led them to an NFC Championship Game the previous season, the 49ers traded away Trey Lance, the third overall pick in the 2021 NFL draft, and made Purdy the full-time starter.[32] In his first full season as the starter, Purdy was named to the Pro Bowl, throwing for 4,280 yards, 31 touchdowns, and 11 interceptions and finished with a passer rating of 113.0, the highest in the league.[33] The offense was also led by first-team All-Pro running back Christian McCaffrey, whom the 49ers acquired midway through the 2022 season.[34] He led the league in scrimmage yards (2,023) and total touchdowns (21). San Francisco's receiving core was led by Brandon Aiyuk, George Kittle, and Deebo Samuel, all of whom gained more than 1,000 scrimmage yards.[33] The 49ers were the first team in league history to have four players with over 1,000 scrimmage yards.[35] The 49ers' offense finished second in the league in total offense with 398.4 yards per game, which included finishing fourth in pass yards per game (257.9) and third in rush yards per game (140.5).[36] The offensive line was spearheaded by left tackle Trent Williams, who received his third First-team All-Pro selection and his 11th Pro Bowl nomination."
+    questions_and_answers:
+      - question: Who was the starting quarterback for the San Francisco 49ers in Superbowl LVIII?
+        answer: Brock Purdy
+      - question: Who are some noteable offensive players on the San Francisco 49ers in Superbowl LVIII?
+        answer: Brock Purdy, Christian McCaffrey, Brandon Aiyuk, George Kittle, and Deebo Samuel, Trent Williams
+      - question: Who was the starting running back for the San Francisco 49ers in Superbowl LVIII?
+        answer: Christian McCaffrey
+document_outline: |
+  Information about Superbowl 58 including who played, dates, and results.
+document:
+  repo: https://github.com/lucaspalm/superbowl58-knowledge.git
+  commit: 7536fdd769dcd85dbd1654926b6358122c919dc5
+  patterns:
+    - superbowl58.md
