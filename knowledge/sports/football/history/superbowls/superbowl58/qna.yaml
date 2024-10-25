@@ -63,7 +63,7 @@ seed_examples:
 document_outline: |
   Information about Superbowl 58 including who played, dates, and results.
 document:
-  repo: https://github.com/lucaspalm/superbowl58-knowledge.git
+  repo: https://github.com/relyt0925/superbowl58-knowledge.git
   commit: 7536fdd769dcd85dbd1654926b6358122c919dc5
   patterns:
     - superbowl58.md
